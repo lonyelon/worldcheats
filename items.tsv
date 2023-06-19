@@ -1,0 +1,1337 @@
+1	item	Potion
+2	item	Mega Potion
+3	item	Max Potion
+4	item	Ancient Potion
+5	item	Antidote
+6	item	Herbal Medicine
+7	item	Nulberry
+8	item	Energy Drink
+9	item	Ration
+10	item	Rare Steak
+11	item	Well-done Steak
+12	item	Burnt Meat
+13	item	Cool Drink
+14	item	Nutrients
+15	item	Mega Nutrients
+16	item	Immunizer
+17	item	Astera Jerky
+18	item	Dash Juice
+20	item	Might Seed
+21	item	Demondrug
+22	item	Mega Demondrug
+23	item	Might Pill
+24	item	Adamant Seed
+25	item	Armorskin
+26	item	Mega Armorskin
+27	item	Adamant Pill
+28	item	Lifepowder
+29	item	Herbal Powder
+30	item	Demon Powder
+31	item	Hardshell Powder
+32	item	Honey
+33	item	Herb
+34	item	Antidote Herb
+35	item	Fire Herb
+36	item	Flowfern
+37	item	Snow Herb
+38	item	Sleep Herb
+39	item	Ivy
+40	item	Smokenut
+41	item	Dragonfell Berry
+42	item	Blue Mushroom
+43	item	Mandragora
+44	item	Nitroshroom
+45	item	Devil's Blight
+46	item	Parashroom
+47	item	Toadstool
+48	item	Exciteshroom
+49	item	Bitterbug
+50	item	Flashbug
+51	item	Godbug
+52	item	Thunderbug
+53	item	Baitbug
+54	item	Kelbi Horn
+55	item	Dash Extract
+56	item	Nourishing Extract
+57	item	Screamer Sac
+58	item	Catalyst
+59	item	Tranq Bomb
+60	item	Flash Pod
+61	item	Screamer Pod
+62	item	Smoke Bomb
+63	item	Poison Smoke Bomb
+64	item	Farcaster
+65	item	Raw Meat
+66	item	Poisoned Meat
+67	item	Tinged Meat
+68	item	Drugged Meat
+69	item	Gunpowder
+70	item	Small Barrel
+71	item	Barrel Bomb
+72	item	Bounce Bomb
+73	item	Mega Bounce Bomb
+74	item	Large Barrel
+75	item	Large Barrel Bomb
+76	item	Mega Barrel Bomb
+77	item	Spider Web
+78	item	Net
+79	item	Trap Tool
+80	item	Pitfall Trap
+81	item	Shock Trap
+82	item	Rolled-up Dung
+83	item	Dung
+84	item	Dung Pod
+85	item	Arowana Bait
+86	item	Gunpowderfish Bait
+87	item	Goldenfish Bait
+88	item	Boomerang
+89	item	Binoculars
+90	item	Powercharm
+91	item	Powertalon
+92	item	Armorcharm
+93	item	Armortalon
+94	item	Needleberry
+95	item	Blastnut
+96	item	Dragonstrike Nut
+97	item	Slashberry
+98	item	Latchberry
+99	item	Bomberry
+100	item	Flamenut
+101	item	Blazenut
+102	item	Gunpowder Level 2
+103	item	Gunpowder Level 3
+104	item	Whetfish Fin
+105	item	Whetfish Fin+
+106	item	Sushifish Scale
+107	item	Great Sushifish Scale
+108	item	Gunpowderfish Scale
+109	item	Great Gunpowderfish Scale
+110	item	Burst Arowana Scale
+111	item	Great Burst Arowana Scale
+112	item	Bomb Arowana Scale
+113	item	Great Bomb Arowana Scale
+137	hidden	Normal Ammo 1
+138	ammo	Normal Ammo 2
+139	ammo	Normal Ammo 3
+140	ammo	Pierce Ammo 1
+141	ammo	Pierce Ammo 2
+142	ammo	Pierce Ammo 3
+143	ammo	Spread Ammo 1
+144	ammo	Spread Ammo 2
+145	ammo	Spread Ammo 3
+146	ammo	Sticky Ammo 1
+147	ammo	Sticky Ammo 2
+148	ammo	Sticky Ammo 3
+149	ammo	Cluster Bomb 1
+150	ammo	Cluster Bomb 2
+151	ammo	Cluster Bomb 3
+152	ammo	Flaming Ammo
+153	ammo	Water Ammo
+154	ammo	Thunder Ammo
+155	ammo	Freeze Ammo
+156	ammo	Dragon Ammo
+157	ammo	Poison Ammo 1
+158	ammo	Poison Ammo 2
+159	ammo	Paralysis Ammo 1
+160	ammo	Paralysis Ammo 2
+161	ammo	Sleep Ammo 1
+162	ammo	Sleep Ammo 2
+163	ammo	Exhaust Ammo 1
+164	ammo	Exhaust Ammo 2
+165	ammo	Recover Ammo 1
+166	ammo	Recover Ammo 2
+167	ammo	Wyvern Ammo
+168	ammo	Slicing Ammo
+169	ammo	Tranq Ammo
+170	ammo	Demon Ammo
+171	ammo	Armor Ammo
+173	ammo	Close-range Coating
+174	item	Empty Phial
+175	ammo	Power Coating
+176	ammo	Poison Coating
+177	ammo	Paralysis Coating
+178	ammo	Sleep Coating
+180	ammo	Blast Coating
+181	misc	First-aid Med
+182	misc	First-aid Med+
+183	misc	EZ Ration
+184	misc	EZ Lifepowder
+185	misc	EZ Max Potion
+186	misc	EZ Large Barrel Bomb
+187	misc	EZ Shock Trap
+188	misc	EZ Pitfall Trap
+189	misc	EZ Herbal Powder
+190	misc	EZ Demon Powder
+191	misc	EZ Hardshell Powder
+192	misc	EZ Dung Pod
+193	misc	EZ Flash Pod
+194	misc	EZ Screamer Pod
+195	misc	Throwing Knife
+196	misc	Poison Knife
+197	misc	Sleep Knife
+198	misc	Paralysis Knife
+199	misc	Tranq Knife
+200	misc	EZ Farcaster
+201	misc	EZ Tranq Bomb
+205	material	Iron Ore
+206	material	Machalite Ore
+207	material	Dragonite Ore
+208	material	Carbalite Ore
+209	material	Fucium Ore
+210	material	Earth Crystal
+211	material	Coral Crystal
+212	material	Dragonvein Crystal
+213	material	Lightcrystal
+214	material	Novacrystal
+215	material	Firecell Stone
+216	material	Aquacore Ore
+217	material	Spiritcore Ore
+218	material	Dreamcore Ore
+219	material	Dragoncore Ore
+220	material	Armor Sphere
+221	material	Armor Sphere+
+222	material	Advanced Armor Sphere
+223	material	Hard Armor Sphere
+224	material	Heavy Armor Sphere
+225	material	Sturdy Bone
+226	material	Quality Bone
+227	material	Ancient Bone
+228	material	Boulder Bone
+229	material	Coral Bone
+230	material	Warped Bone
+231	material	Brutal Bone
+232	material	Dragonbone Relic
+233	material	Unknown Skull
+234	material	Great Hornfly
+235	material	Sinister Cloth
+236	material	Monster Bone S
+237	material	Monster Bone M
+238	material	Monster Bone L
+239	material	Monster Bone+
+240	material	Monster Keenbone
+241	material	Monster Hardbone
+242	material	Elder Dragon Bone
+243	material	Sharp Claw
+244	material	Piercing Claw
+245	material	Monster Fluid
+246	material	Monster Broth
+247	material	Poison Sac
+248	material	Toxin Sac
+249	material	Paralysis Sac
+250	material	Omniplegia Sac
+251	material	Sleep Sac
+252	material	Coma Sac
+253	material	Flame Sac
+254	material	Inferno Sac
+255	material	Aqua Sac
+256	material	Torrent Sac
+257	material	Frost Sac
+258	material	Freezer Sac
+259	material	Electro Sac
+260	material	Thunder Sac
+261	material	Bird Wyvern Gem
+262	material	Wyvern Gem
+263	material	Elder Dragon Blood
+264	material	Mosswine Hide
+265	material	Warm Pelt
+266	material	High-quality Pelt
+267	material	Vespoid Shell
+268	material	Vespoid Carapace
+269	material	Vespoid Wing
+270	material	Vespoid Innerwing
+271	material	Hornetaur Shell
+272	material	Hornetaur Wing
+273	material	Hornetaur Head
+274	material	Hornetaur Carapace
+275	material	Hornetaur Innerwing
+276	material	Gajau Skin
+277	material	Gajau Whisker
+278	material	Gajau Scale
+279	material	Grand Gajau Whisker
+280	material	Wingdrake Hide
+281	material	Wingdrake Hide+
+282	material	Barnos Hide+
+283	material	Barnos Talon
+284	material	Kestodon Shell
+285	material	Kestodon Scalp
+286	material	Kestodon Carapace
+287	material	Gastodon Carapace
+288	material	Gastodon Horn
+289	material	Jagras Scale
+290	material	Jagras Hide
+291	material	Jagras Scale+
+292	material	Jagras Hide+
+293	material	Shamos Scale
+294	material	Shamos Hide
+295	material	Shamos Scale+
+296	material	Shamos Hide+
+297	material	Girros Scale
+298	material	Girros Hide
+299	material	Girros Fang
+300	material	Girros Scale+
+301	material	Girros Hide+
+302	material	Great Jagras Scale
+303	material	Great Jagras Hide
+304	material	Great Jagras Mane
+305	material	Great Jagras Claw
+306	material	Great Jagras Scale+
+307	material	Great Jagras Hide+
+308	material	Great Jagras Claw+
+309	material	Kulu-Ya-Ku Scale
+310	material	Kulu-Ya-Ku Hide
+311	material	Kulu-Ya-Ku Plume
+312	material	Kulu-Ya-Ku Beak
+313	material	Kulu-Ya-Ku Scale+
+314	material	Kulu-Ya-Ku Hide+
+315	material	Kulu-Ya-Ku Plume+
+316	material	Kulu-Ya-Ku Beak+
+317	material	Pukei-Pukei Scale
+318	material	Pukei-Pukei Shell
+319	material	Pukei-Pukei Quill
+320	material	Pukei-Pukei Sac
+321	material	Pukei-Pukei Tail
+322	material	Pukei-Pukei Scale+
+323	material	Pukei-Pukei Carapace
+324	material	Pukei-Pukei Wing
+325	material	Pukei-Pukei Sac+
+326	material	Barroth Shell
+327	material	Barroth Ridge
+328	material	Barroth Claw
+329	material	Barroth Scalp
+330	material	Barroth Tail
+331	material	Fertile Mud
+332	material	Barroth Carapace
+333	material	Barroth Ridge+
+334	material	Barroth Claw+
+335	material	Jyuratodus Scale
+336	material	Jyuratodus Shell
+337	material	Jyuratodus Fang
+338	material	Jyuratodus Fin
+339	material	Jyuratodus Scale+
+340	material	Jyuratodus Carapace
+341	material	Jyuratodus Fang+
+342	material	Jyuratodus Fin+
+343	material	Tobi-Kadachi Scale
+344	material	Tobi-Kadachi Pelt
+345	material	Tobi-Kadachi Membrane
+346	material	Tobi-Kadachi Claw
+347	material	Tobi-Kadachi Electrode
+348	material	Tobi-Kadachi Scale+
+349	material	Tobi-Kadachi Pelt+
+350	material	Tobi-Kadachi Claw+
+351	material	Tobi-Kadachi Electrode+
+352	material	Anjanath Scale
+353	material	Anjanath Pelt
+354	material	Anjanath Fang
+355	material	Anjanath Nosebone
+356	material	Anjanath Tail
+357	material	Anjanath Plate
+358	material	Anjanath Scale+
+359	material	Anjanath Pelt+
+360	material	Anjanath Fang+
+361	material	Anjanath Nosebone+
+362	material	Anjanath Gem
+363	material	Rathian Scale
+364	material	Rathian Shell
+365	material	Rathian Webbing
+366	material	Rathian Spike
+367	material	Rathian Plate
+368	material	Rathian Scale+
+369	material	Rathian Carapace
+370	material	Rathian Spike+
+371	material	Rathian Ruby
+372	material	Pink Rathian Scale+
+373	material	Pink Rathian Carapace
+374	material	Tzitzi-Ya-Ku Scale
+375	material	Tzitzi-Ya-Ku Hide
+376	material	Tzitzi-Ya-Ku Claw
+377	material	Tzitzi-Ya-Ku Photophore
+378	material	Tzitzi-Ya-Ku Scale+
+379	material	Tzitzi-Ya-Ku Hide+
+380	material	Tzitzi-Ya-Ku Claw+
+381	material	Tzitzi-Ya-Ku Photophore+
+382	material	Paolumu Pelt
+383	material	Paolumu Scale
+384	material	Paolumu Shell
+385	material	Paolumu Webbing
+386	material	Paolumu Pelt+
+387	material	Paolumu Scale+
+388	material	Paolumu Carapace+
+389	material	Paolumu Wing
+390	material	Great Girros Scale
+391	material	Great Girros Hide
+392	material	Great Girros Hood
+393	material	Great Girros Fang
+394	material	Great Girros Tail
+395	material	Great Girros Scale+
+396	material	Great Girros Hide+
+397	material	Great Girros Hood+
+398	material	Great Girros Fang+
+399	material	Radobaan Scale
+400	material	Radobaan Shell
+401	material	Radobaan Oilshell
+402	material	Wyvern Bonemass
+404	material	Radobaan Marrow
+405	material	Radobaan Scale+
+406	material	Radobaan Carapace
+407	material	Radobaan Medulla
+408	material	Legiana Scale
+409	material	Legiana Hide
+410	material	Legiana Claw
+411	material	Legiana Webbing
+412	material	Legiana Tail Webbing
+413	material	Legiana Plate
+414	material	Legiana Scale+
+415	material	Legiana Hide+
+416	material	Legiana Claw+
+417	material	Legiana Wing
+418	material	Legiana Gem
+419	material	Odogaron Scale
+420	material	Odogaron Sinew
+421	material	Odogaron Claw
+422	material	Odogaron Fang
+423	material	Odogaron Tail
+424	material	Odogaron Plate
+425	material	Odogaron Scale+
+426	material	Odogaron Sinew+
+427	material	Odogaron Claw+
+428	material	Odogaron Fang+
+429	material	Odogaron Gem
+430	material	Rathalos Scale
+431	material	Rathalos Shell
+432	material	Rathalos Webbing
+433	material	Rathalos Tail
+434	material	Rath Wingtalon
+435	material	Rathalos Marrow
+436	material	Rathalos Plate
+437	material	Rathalos Scale+
+438	material	Rathalos Carapace
+439	material	Rathalos Wing
+440	material	Rathalos Medulla
+441	material	Rathalos Ruby
+442	material	Azure Rathalos Scale+
+443	material	Azure Rathalos Carapace
+444	material	Azure Rathalos Tail
+445	material	Azure Rathalos Wing
+446	material	Diablos Shell
+447	material	Diablos Ridge
+448	material	Diablos Tailcase
+449	material	Diablos Fang
+450	material	Twisted Horn
+451	material	Diablos Marrow
+452	material	Diablos Carapace
+453	material	Diablos Ridge+
+454	material	Majestic Horn
+455	material	Blos Medulla
+456	material	Black Diablos Carapace
+457	material	Black Diablos Ridge+
+458	material	Black Spiral Horn+
+459	material	Kirin Hide
+460	material	Kirin Tail
+461	material	Kirin Mane
+462	material	Kirin Thunderhorn
+463	material	Kirin Hide+
+464	material	Kirin Thundertail
+465	material	Kirin Azure Horn
+467	material	Zorah Magdaros Heat Scale
+468	material	Zorah Magdaros Carapace
+469	material	Zorah Magdaros Ridge
+470	material	Zorah Magdaros Pleura
+472	material	Zorah Magdaros Magma
+473	material	Zorah Magdaros Gem
+474	material	Dodogama Scale+
+475	material	Dodogama Hide+
+476	material	Dodogama Jaw
+477	material	Dodogama Talon
+478	material	Dodogama Tail
+479	material	Lavasioth Scale+
+480	material	Lavasioth Carapace
+481	material	Lavasioth Fang+
+482	material	Lavasioth Fin+
+483	material	Uragaan Scale+
+484	material	Uragaan Carapace
+485	material	Uragaan Jaw
+486	material	Uragaan Scute
+487	material	Uragaan Marrow
+488	material	Uragaan Ruby
+489	material	Lava Nugget
+490	material	Bazelgeuse Scale+
+491	material	Bazelgeuse Carapace
+492	material	Bazelgeuse Tail
+493	material	Bazelgeuse Fuse
+494	material	Bazelgeuse Talon
+495	material	Bazelgeuse Wing
+496	material	Bazelgeuse Gem
+497	material	Immortal Dragonscale
+498	material	Nergigante Carapace
+500	material	Nergigante Tail
+501	material	Nergigante Horn+
+502	material	Nergigante Talon
+503	material	Nergigante Regrowth Plate
+504	material	Nergigante Gem
+505	material	Deceased Scale
+506	material	Vaal Hazak Carapace
+507	material	Vaal Hazak Membrane
+508	material	Vaal Hazak Tail
+509	material	Vaal Hazak Fang+
+510	material	Vaal Hazak Talon
+511	material	Vaal Hazak Wing
+513	material	Vaal Hazak Gem
+514	material	Teostra Carapace
+515	material	Teostra Mane
+516	material	Teostra Tail
+517	material	Teostra Horn+
+518	material	Fire Dragon Scale+
+519	material	Teostra Claw+
+520	material	Teostra Webbing
+521	material	Teostra Powder
+522	material	Teostra Gem
+523	material	Daora Carapace
+524	material	Daora Dragon Scale+
+525	material	Daora Webbing
+526	material	Daora Horn+
+527	material	Daora Tail
+528	material	Daora Claw+
+529	material	Daora Gem
+530	material	Xeno'jiiva Soulscale
+531	material	Xeno'jiiva Shell
+532	material	Xeno'jiiva Veil
+533	material	Xeno'jiiva Tail
+534	material	Xeno'jiiva Horn
+535	material	Xeno'jiiva Claw
+536	material	Xeno'jiiva Wing
+538	material	Xeno'jiiva Gem
+548	misc	Mysterious Feystone
+549	misc	Glowing Feystone
+550	misc	Worn Feystone
+551	misc	Warped Feystone
+552	misc	Sullied Streamstone
+553	misc	Shining Streamstone
+554	material	Streamstone Shard
+555	material	Streamstone
+556	material	Gleaming Streamstone
+557	material	Warrior's Streamstone: Sword
+558	material	Warrior's Streamstone: Blade
+559	material	Warrior's Streamstone: Hammer
+560	material	Warrior's Streamstone: Lance
+561	material	Warrior's Streamstone: Axe
+562	material	Warrior's Streamstone: Shaft
+563	material	Warrior's Streamstone: Ranged
+564	material	Hero's Streamstone: Sword
+565	material	Hero's Streamstone: Blade
+566	material	Hero's Streamstone: Hammer
+567	material	Hero's Streamstone: Lance
+568	material	Hero's Streamstone: Axe
+569	material	Hero's Streamstone: Shaft
+570	material	Hero's Streamstone: Ranged
+571	material	Voucher
+572	material	First Wyverian Print
+573	material	Deluxe First Wyverian Print
+574	material	Steel Wyverian Print
+575	material	Silver Wyverian Print
+576	material	Gold Wyverian Print
+577	material	Commendation
+578	material	High Commendation
+579	material	Research Commission Ticket
+580	material	Pukei Coin
+581	material	Kulu Coin
+582	material	Rathian Coin
+583	material	Tzitzi Coin
+584	material	Barroth Coin
+585	material	Gama Coin
+586	material	Rathalos Coin
+587	material	Brute Coin
+588	material	Flying Coin
+589	material	Pinnacle Coin
+590	material	Hunter King Coin
+591	material	Ace Hunter Coin
+592	material	Steel Egg
+593	material	Silver Egg
+594	material	Golden Egg
+595	material	Chipped Scale
+596	material	Large Scale
+597	material	Beautiful Scale
+598	material	Lustrous Scale
+599	material	Glimmering Scale
+600	material	Bhernastone
+601	material	Dundormarin
+602	material	Loc Lac Ore
+603	material	Val Habar Quartz
+604	material	Minegardenite
+605	material	Golden Scale
+606	material	Golden Scale+
+607	material	Platinum Scale
+608	material	Platinum Scale+
+609	material	Gilded Scale
+610	material	Gilded Scale+
+611	misc	White Liver
+612	misc	Wyvern Tear
+613	misc	Large Wyvern Tear
+614	misc	Dragon Treasure
+616	misc	Sunbloom
+617	misc	Shinebloom
+618	misc	Goldbloom
+619	misc	Gourmet Shroomcap
+620	misc	Exquisite Shroomcap
+621	misc	Spirit Shroomcap
+622	misc	Bauble Cactus
+623	misc	Jewel Cactus
+624	misc	Kingly Cactus
+625	misc	Hardfruit
+626	misc	Rockfruit
+627	misc	Wildfruit
+628	misc	Super Abalone
+629	misc	Choice Abalone
+630	misc	Precious Abalone
+631	misc	Light Pearl
+632	misc	Deep Pearl
+633	misc	Innocent Pearl
+634	misc	Forgotten Fossil
+635	misc	Legendary Fossil
+636	misc	Mystical Fossil
+637	misc	Underground Fruit
+638	misc	Tainted Fruit
+639	misc	Elysian Fruit
+640	misc	Gaia Amber
+641	misc	Dragonvein Amber
+642	misc	Ancient Amber
+643	misc	Blue Beryl
+644	misc	True Beryl
+645	misc	Abyssal Beryl
+646	misc	Sunkissed Grass
+647	misc	Moonlit Mushroom
+648	misc	Dragonbloom
+649	misc	Divineapple
+650	misc	Violet Abalone
+651	misc	Platinum Pearl
+652	misc	Wicked Fossil
+653	misc	Heavenberry
+654	misc	Twilight Stone
+655	misc	Noahstone
+870	item	Chillshroom
+871	material	Tailraider Voucher
+872	material	Emerald Shell
+873	material	Gajalaka Sketch
+879	material	Deviljho Scale
+880	material	Deviljho Hide
+881	material	Deviljho Tallfang
+882	material	Deviljho Talon
+883	material	Deviljho Scalp
+884	material	Deviljho Tail
+885	material	Deviljho Saliva
+886	material	Deviljho Gem
+887	material	Kulve Taroth Golden Scale
+888	material	Kulve Taroth Golden Shell
+889	material	Kulve Taroth Golden Nugget
+890	material	Kulve Taroth Golden Spiralhorn
+891	material	Kulve Taroth Golden Tailshell
+892	material	Kulve Taroth Golden Glimstone
+893	material	Golden Fragment
+894	material	Golden Chunk
+895	material	Lunastra Scale+
+896	material	Lunastra Wing
+897	material	Lunastra Gem
+898	material	Lunastra Carapace
+899	material	Lunastra Mane
+900	material	Lunastra Tail
+901	material	Lunastra Horn
+902	material	Behemoth Mane
+903	material	Behemoth Bone
+904	material	Behemoth Great Horn
+905	material	Behemoth Shearclaw
+906	material	Behemoth Tail
+907	material	Aetheryte Shard
+908	material	Spring Blossom Ticket
+909	material	Summer Twilight Ticket
+910	material	Autumn Harvest Ticket
+911	material	Winter Star Ticket
+912	material	Appreciation Ticket
+913	material	Spring Insect Field Guide
+914	material	Summer Insect Field Guide
+915	material	Vaal Hazak Ticket
+916	material	Kirin Ticket
+917	material	Teostra Ticket
+918	material	Kushala Daora Ticket
+919	material	Nergigante Ticket
+920	material	Zorah Magdaros Ticket
+921	material	Xeno'jiiva Ticket
+922	material	Black Bandage
+923	material	Black Crystal Ticket
+924	material	Kulu-Ya-Ku Ticket
+925	material	Wiggler Ticket
+928	material	Mega Man Ticket
+929	material	SFV Ticket
+930	material	SFV Ticket III
+931	material	SFV Ticket II
+932	material	Azure Star Shard
+933	material	Azure Stargem
+934	material	Red Orb
+935	material	Master Craftsman's Blueprint
+936	misc	Dissolved Weapon
+937	misc	Melded Weapon
+938	misc	Sublimated Weapon
+939	material	Bushi Ticket
+940	item	Blossom Fireworks
+941	item	Twilight Fireworks
+942	item	Harvest Fireworks
+943	item	Star Fireworks
+944	item	Appreciation Fireworks
+952	material	Gold Chip Fragment
+953	material	Gold Nugget Fragment
+955	material	Senu's Feather
+961	material	Downy Crake Ticket
+962	material	Bristly Crake Ticket
+963	material	First Fleet Ticket
+965	material	Lunastra Ticket
+966	misc	Transparent Stone
+969	material	Faux Ticket
+970	material	Faux Ticket II
+971	material	Faux Ticket III
+972	material	Beetle Ticket
+975	material	Glamour Prism
+977	misc	Incandescent Weapon
+978	material	Kulve Taroth Emperor Nugget
+979	material	Leshen Claw
+980	material	Ancient Leshen Claw
+981	material	Leshen Skull
+982	material	Ancient Leshen Skull
+983	material	Cursed Bone
+984	material	Ancient Cursed Bone
+985	material	Leshen Antlers
+986	material	Ancient Leshen Antlers
+987	material	Leshen Resin
+988	material	Mutagen
+1000	item	Hot Drink
+1003	material	Gourmet Voucher
+1006	item	Hot Pepper
+1007	item	Gloamgrass Bud
+1008	item	Dust of Life
+1009	misc	Crystalized Bone Shard
+1010	misc	Crystalized Monster Bone
+1011	misc	Crystalized Elder Dragon Bone
+1030	material	Eltalite Ore
+1031	material	Meldspar Ore
+1032	material	Spiritvein Crystal
+1034	material	Purecrystal
+1036	material	Bathycite Ore
+1037	material	Gracium
+1038	material	Phantomcore Ore
+1039	material	Shadowcore Ore
+1040	material	King Armor Sphere
+1041	material	True Armor Sphere
+1042	material	Thick Bone
+1043	material	Frozen Bone
+1044	material	Dragonbone Artifact
+1048	material	Ancient Fragment
+1049	material	Monster Toughbone
+1050	material	Monster Slogbone
+1051	material	Monster Solidbone
+1053	material	Large Elder Dragon Bone
+1054	material	Tough Claw
+1055	material	Monster Essence
+1056	material	Deadly Poison Sac
+1057	material	Ultraplegia Sac
+1058	material	Torpor Sac
+1059	material	Conflagrant Sac
+1060	material	Flood Sac
+1061	material	Cryo Sac
+1062	material	Lightning Sac
+1063	material	Fey Wyvern Gem
+1064	material	Large Wyvern Gem
+1065	material	Pure Dragon Blood
+1066	material	Large Elder Dragon Gem
+1068	material	Prized Pelt
+1069	material	Anteka Antler
+1071	material	Vespoid Razorwing
+1073	material	Hornetaur Razorwing
+1075	material	Gajau Thickhide
+1076	material	Steel Gajau Whisker
+1077	material	Wingdrake Finehide
+1078	material	Barnos Hardclaw
+1080	material	Cortos Hardclaw
+1081	material	Kestodon Husk
+1083	material	Gastodon Husk
+1085	material	Jagras Shard
+1087	material	Shamos Shard
+1089	material	Girros Shard
+1091	material	Wulg Thickfur
+1093	material	Great Jagras Shard
+1094	material	Great Jagras Thickhide
+1095	material	Great Jagras Hardclaw
+1096	material	Great Jagras Mane+
+1097	material	Kulu-Ya-Ku Shard
+1098	material	Kulu-Ya-Ku Thickhide
+1099	material	Large Kulu-Ya-Ku Plume
+1100	material	Large Kulu-Ya-Ku Beak
+1101	material	Pukei-Pukei Shard
+1102	material	Pukei-Pukei Cortex
+1103	material	Pukei-Pukei Fellwing
+1104	material	Large Pukei-Pukei Sac
+1105	material	Pukei-Pukei Lash
+1106	material	Coral Pukei-Pukei Shard
+1107	material	Coral Pukei-Pukei Cortex
+1108	material	Coral Pukei-Pukei Fellwing
+1109	material	Large Coral Pukei-Pukei Sac
+1110	material	Coral Pukei-Pukei Lash
+1111	material	Barroth Cortex
+1112	material	Barroth Chine
+1113	material	Barroth Hardclaw
+1114	material	Barroth Crown
+1115	material	Barroth Lash
+1116	material	Rich Mud
+1117	material	Jyuratodus Shard
+1118	material	Jyuratodus Cortex
+1119	material	Jyuratodus Hardfang
+1120	material	Jyuratodus Grandfin
+1121	material	Beotodus Shard
+1122	material	Beotodus Cortex
+1123	material	Beotodus Hardhorn
+1124	material	Beotodus Grandfin
+1125	material	Tobi-Kadachi Shard
+1126	material	Tobi-Kadachi Thickfur
+1127	material	Tobi-Kadachi Membrane+
+1128	material	Tobi-Kadachi Hardclaw
+1129	material	Tobi-Kadachi Cathode
+1130	material	Viper Tobi-Kadachi Shard
+1131	material	Viper Tobi-Kadachi Thickfur
+1132	material	Viper Tobi-Kadachi Membrane+
+1133	material	Viper Tobi-Kadachi Hardclaw
+1134	material	Viper Tobi-Kadachi Thorn
+1135	material	Banbaro Cortex
+1136	material	Banbaro Chine
+1137	material	Banbaro Great Horn
+1138	material	Banbaro Lash
+1139	material	Anjanath Shard
+1140	material	Anjanath Fur
+1141	material	Anjanath Hardfang
+1142	material	Heavy Anjanath Nosebone
+1143	material	Anjanath Lash
+1144	material	Anjanath Mantle
+1145	material	Fulgur Anjanath Shard
+1146	material	Fulgur Anjanath Thickfur
+1147	material	Fulgur Anjanath Hardfang
+1148	material	Heavy Fulgur Anjanath Nosebone
+1149	material	Fulgur Anjanath Lash
+1150	material	Fulgur Anjanath Mantle
+1151	material	Rathian Shard
+1152	material	Rathian Cortex
+1153	material	Rathian Weave
+1154	material	Rathian Surspike
+1155	material	Rathian Mantle
+1156	material	Pink Rathian Shard
+1157	material	Pink Rathian Cortex
+1158	material	Gold Rathian Shard
+1159	material	Gold Rathian Cortex
+1160	material	Gold Rathian Surspike
+1161	material	Tzitzi-Ya-Ku Shard
+1162	material	Tzitzi-Ya-Ku Thickhide
+1163	material	Tzitzi-Ya-Ku Hardclaw
+1164	material	Tzitzi-Ya-Ku Photomembrane
+1165	material	Paolumu Thickfur
+1166	material	Paolumu Shard
+1167	material	Paolumu Cortex
+1168	material	Paolumu Fellwing
+1169	material	Nightshade Paolumu Thickfur
+1170	material	Nightshade Paolumu Shard
+1171	material	Nightshade Paolumu Fellwing
+1172	material	Great Girros Shard
+1173	material	Great Girros Thickhide
+1174	material	Great Girros Hardhood
+1175	material	Great Girros Hardfang
+1176	material	Great Girros Lash
+1177	material	Radobaan Shard
+1178	material	Radobaan Cortex
+1179	material	Radobaan Oilshell+
+1180	material	Large Wyvern Bonemass
+1181	material	Legiana Shard
+1182	material	Legiana Thickhide
+1183	material	Legiana Hardclaw
+1184	material	Legiana Fellwing
+1185	material	Legiana Tail Webbing+
+1186	material	Legiana Mantle
+1188	material	Rimed Hide
+1189	material	Obsidian Icetalon
+1190	material	Stark Wing
+1193	material	Odogaron Shard
+1194	material	Hard Odogaron Sinew
+1195	material	Odogaron Hardclaw
+1196	material	Odogaron Hardfang
+1197	material	Odogaron Lash
+1198	material	Odogaron Mantle
+1199	material	Ebony Odogaron Shard
+1200	material	Hard Ebony Odogaron Sinew
+1201	material	Ebony Odogaron Hardclaw
+1202	material	Ebony Odogaron Hardfang
+1203	material	Ebony Odogaron Lash
+1204	material	Ebony Odogaron Mantle
+1205	material	Rathalos Shard
+1206	material	Rathalos Cortex
+1207	material	Rathalos Fellwing
+1208	material	Rathalos Lash
+1209	material	Rath Wingtalon+
+1210	material	Rathalos Mantle
+1211	material	Azure Rathalos Shard
+1212	material	Azure Rathalos Cortex
+1213	material	Azure Rathalos Lash
+1214	material	Azure Rathalos Fellwing
+1215	material	Silver Rathalos Shard
+1216	material	Silver Rathalos Cortex
+1217	material	Silver Rathalos Fellwing
+1218	material	Silver Rathalos Lash
+1219	material	Rath Gleam
+1220	material	Diablos Cortex
+1221	material	Diablos Chine
+1222	material	Diablos Tailcase+
+1223	material	Twisted Stouthorn
+1224	material	Diablos Hardhorn
+1225	material	Black Diablos Cortex
+1226	material	Black Diablos Chine
+1227	material	Blackcurl Stouthorn
+1228	material	Dodogama Shard
+1229	material	Dodogama Thickhide
+1230	material	Dodogama Mandible
+1231	material	Dodogama Hardclaw
+1232	material	Dodogama Lash
+1233	material	Lavasioth Shard
+1234	material	Lavasioth Cortex
+1235	material	Lavasioth Hardfang
+1236	material	Lavasioth Grandfin
+1237	material	Uragaan Shard
+1238	material	Uragaan Cortex
+1239	material	Uragaan Jaw+
+1240	material	Uragaan Scute+
+1241	material	Uragaan Pallium
+1242	material	Barioth Cortex
+1243	material	Barioth Thickfur
+1244	material	Barioth Hardclaw
+1245	material	Barioth Greatspike
+1246	material	Barioth Lash
+1247	material	Amber Hardfang
+1248	material	Nargacuga Shard
+1249	material	Nargacuga Blackfur+
+1250	material	Nargacuga Lash
+1251	material	Nargacuga Tailspear
+1252	material	Nargacuga Cutwing+
+1253	material	Nargacuga Hardfang
+1254	material	Nargacuga Mantle
+1255	material	Tigrex Shard
+1256	material	Tigrex Cortex
+1257	material	Tigrex Lash
+1258	material	Tigrex Hardclaw
+1259	material	Tigrex Hardfang
+1260	material	Tigrex Mantle
+1261	material	Brute Tigrex Shard
+1262	material	Brute Tigrex Cortex
+1263	material	Brute Tigrex Hardclaw
+1264	material	Brute Tigrex Hardfang
+1265	material	Glavenus Shard
+1266	material	Glavenus Cortex
+1267	material	Glavenus Hardfang
+1268	material	Glavenus Hellshell
+1269	material	Glavenus Tailedge
+1270	material	Molten Bursa
+1271	material	Glavenus Mantle
+1272	material	Acidic Glavenus Shard
+1273	material	Acidic Glavenus Cortex
+1274	material	Acidic Glavenus Hardfang
+1275	material	Acidic Glavenus Spineshell
+1276	material	Acidic Glavenus Tailedge
+1277	material	Honed Acidcryst
+1279	material	Brachydios Cortex
+1280	material	Fine Brachydios Ebonshell
+1281	material	Brachydios Crown
+1282	material	Glowing Slime
+1283	material	Brachydios Pounder+
+1284	material	Brachydios Lash
+1285	material	Brachydios Pallium
+1286	material	Brach Warhead
+1287	material	Flashpoint Slime
+1288	material	Brach Obliterator
+1289	material	Immortal Reactor
+1290	material	Garuga Shard
+1291	material	Garuga Cortex
+1292	material	Garuga Auricle
+1293	material	Fancy Beak
+1294	material	Garuga Fellwing
+1295	material	Garuga Lash
+1296	material	Garuga Silverpelt
+1297	material	Zinogre Cortex
+1298	material	Zinogre Electrofur+
+1299	material	Zinogre Hardhorn
+1300	material	Zinogre Hardclaw
+1301	material	Zinogre Lash
+1302	material	Zinogre Deathly Shocker
+1303	material	Fulgurbug
+1304	material	Zinogre Skymerald
+1305	material	Stygian Zinogre Cortex
+1306	material	Stygian Zinogre Dragonlocks
+1307	material	Stygian Zinogre Hardhorn
+1308	material	Stygian Zinogre Hardclaw
+1309	material	Stygian Zinogre Lash
+1310	material	Stygian Zinogre Dragonhold
+1311	material	Dracophage Bug
+1312	material	Stygian Zinogre Skymerald
+1313	material	Bazelgeuse Shard
+1314	material	Flickering Silvershell
+1315	material	Bazelgeuse Flail
+1316	material	Distilled Blast Fluid
+1317	material	Bazelgeuse Hardclaw
+1318	material	Scorching Silverwing
+1319	material	Bazelgeuse Mantle
+1320	material	Deviljho Shard
+1321	material	Deviljho Blackpiel
+1323	material	Vile Fang
+1324	material	Deviljho Ripper
+1325	material	Deviljho Flail
+1326	material	Black Blood
+1327	material	Deviljho Crook
+1328	material	Rajang Wildpelt
+1329	material	Rajang Hardfang
+1330	material	Rajang Hardclaw
+1331	material	Rajang Tail
+1332	material	Gold Rajang Pelt+
+1333	material	Rajang Apoplexy
+1334	material	Rajang Hardhorn
+1335	material	Ghoulish Gold Gorer
+1336	material	Rajang Heart
+1337	material	Kirin Finehide
+1338	material	Kirin Thundertail+
+1339	material	Kirin Silvermane
+1340	material	Kirin Azure Horn+
+1341	material	Immortal Shard
+1342	material	Nergigante Cortex
+1343	material	Nergigante Flail
+1344	material	Annihilating Greathorn
+1345	material	Nergigante Hardclaw
+1346	material	Eternal Regrowth Plate
+1347	material	Crystal Shard
+1348	material	Velkhana Cortex
+1349	material	Velkhana Fellwing
+1350	material	Velkhana Crownhorn
+1351	material	Velkhana Lash
+1352	material	Velkhana Hardclaw
+1353	material	Velkhana Crystal
+1354	material	Teostra Cortex
+1355	material	Teostra Mane+
+1356	material	Teostra Lash
+1357	material	Teostra Hardhorn
+1358	material	Hellfire Shard
+1359	material	Fire Dragon Hardclaw
+1360	material	Teostra Fellwing
+1361	material	Lunastra Cortex
+1362	material	Lunastra Mane+
+1363	material	Lunastra Lash
+1364	material	Lunastra Hardhorn
+1365	material	Lunastra Shard
+1366	material	Lunastra Fellwing
+1367	material	Daora Cortex
+1368	material	Daora Shard
+1369	material	Daora Fellwing
+1370	material	Daora Hardhorn
+1371	material	Daora Lash
+1372	material	Daora Hardclaw
+1373	material	Deceased Shard
+1374	material	Vaal Hazak Cortex
+1375	material	Deathweaver Membrane
+1376	material	Vaal Hazak Flail
+1377	material	Shadowpierce Fang
+1378	material	Vaal Hazak Hardclaw
+1379	material	Vaal Hazak Fellwing
+1380	material	Namielle Finehide
+1382	material	Namielle Fellwing
+1383	material	Namielle Whisker
+1384	material	Namielle Lash
+1385	material	Namielle Hardclaw
+1387	material	Safi'jiiva Shard
+1388	material	Safi'jiiva Cortex
+1389	material	Pulsing Dragonshell
+1390	material	Safi'jiiva Lash
+1391	material	Safi'jiiva Hardhorn
+1392	material	Safi'jiiva Hardclaw
+1393	material	Safi'jiiva Fellwing
+1394	material	Zionium Crystal
+1395	material	Shara Ishvalda Tenderscale
+1396	material	Shara Ishvalda Boulderplate
+1398	material	Shara Ishvalda Tenderplate
+1399	material	Shara Ishvalda Petalstone
+1400	material	Shara Ishvalda Tenderclaw
+1401	material	Shara Ishvalda Gem
+1402	material	Alatreon Pallium
+1403	material	Alatreon Mantle
+1404	material	Alatreon Riptalon
+1405	material	Alatreon Direwing
+1406	material	Alatreon Diretail
+1407	material	Skyswayer
+1408	material	Azure Dragonsphire
+1409	misc	Ancient Feystone
+1410	misc	Carved Feystone
+1411	misc	Sealed Feystone
+1412	misc	Decayed Scale
+1413	misc	Luminous Scale
+1414	misc	Old Dragon Treasure
+1415	material	Indestructible Ebonshell
+1423	material	Kulve Taroth Golden Scale+
+1424	material	Kulve Taroth Golden Shell+
+1425	material	Kulve Taroth Golden Nugget+
+1426	material	Kulve Taroth Golden Spiralhorn+
+1427	material	Kulve Taroth Golden Tailshell+
+1428	material	Golden Dragonsphire
+1431	material	Celestial Wyverian Print
+1432	material	Conqueror's Seal
+1433	material	Research Commission Ticket+
+1434	material	Banbaro Coin
+1435	material	Paolumu Coin
+1436	material	Nargacuga Coin
+1437	material	Glavenus Coin
+1438	material	Odogaron Coin
+1439	material	Zinogre Coin
+1440	material	Black Belt Coin
+1441	material	Hero King Coin
+1442	material	Tigrex Coin
+1443	material	Giant Scale
+1444	material	Magnificent Scale
+1445	material	Boaboa Ticket
+1446	misc	Young Butterbur
+1447	misc	Exquisite Butterbur
+1448	misc	Millennium Butterbur
+1449	misc	Icebloom
+1450	misc	Moonlight Icebloom
+1451	misc	Snowpeak Icebloom
+1452	misc	Snow White
+1453	misc	Petalcryst
+1454	misc	EZ Dust of Life
+1478	material	Dragonvein Shard
+1479	material	Dragonvein Coal
+1480	material	Dragonvein Coal Chunk
+1790	material	Thermae Ticket
+1791	material	Scratched Shell
+1795	material	Decayed Crystal
+1796	material	Forest Crystal
+1797	material	Prosperous Crystal
+1798	material	Guiding Forest Crystal
+1799	material	Cracked Crystal
+1800	material	Wasteland Crystal
+1801	material	Serene Crystal
+1802	material	Guiding Wasteland Crystal
+1803	material	Pale Crystal
+1804	material	Reef Crystal
+1805	material	Deepsea Crystal
+1806	material	Guiding Reef Crystal
+1807	material	Distorted Crystal
+1808	material	Effluvial Crystal
+1809	material	Twilight Crystal
+1810	material	Guiding Effluvial Crystal
+1811	material	Melted Crystal
+1812	material	Magma Crystal
+1813	material	Hellfire Crystal
+1814	material	Guiding Magma Crystal
+1815	material	Frozen Crystal
+1816	material	Rime Crystal
+1817	material	Daybreak Crystal
+1818	material	Guiding Rime Crystal
+1819	material	Mossy Greatbone
+1820	material	Woodland Greatbone
+1821	material	Slumbering Greatbone
+1822	material	Guiding Forest Dragonbone
+1823	material	Weathered Cragbone
+1824	material	Wasteland Cragbone
+1825	material	Tempered Cragbone
+1826	material	Guiding Wasteland Dragonbone
+1827	material	Vivid Crimsonbone
+1828	material	Coral Crimsonbone
+1829	material	Vibrant Crimsonbone
+1830	material	Guiding Reef Dragonbone
+1831	material	Malformed Frenzybone
+1832	material	Effluvial Frenzybone
+1833	material	Afflicted Frenzybone
+1834	material	Guiding Rotted Dragonbone
+1835	material	Simmering Wildbone
+1836	material	Volcanic Wildbone
+1837	material	Dragonscorched Wildbone
+1838	material	Guiding Volcanic Dragonbone
+1839	material	Hoary Icebone
+1840	material	Tundra Icebone
+1841	material	Everfrost Icebone
+1842	material	Guiding Tundra Dragonbone
+1843	material	Fierce Dragonvein Bone
+1844	material	Heavy Dragonvein Bone
+1845	material	Dragonvein Solidbone
+1846	material	Elder Dragonvein Bone
+1848	material	Spiritvein Slogbone
+1849	material	Spiritvein Solidbone
+1850	material	Elder Spiritvein Bone
+1851	material	Spiritvein Gem Shard
+1852	material	Spiritvein Gem
+1853	material	Great Spiritvein Gem
+1854	material	Rugged Mane
+1856	material	Colorful Plume
+1858	material	Fragrant Poison Sac
+1859	material	Tempered Poison Sac
+1860	material	Hydrated Sac
+1861	material	Tempered Torrent Sac
+1862	material	Muddy Crown
+1863	material	Tempered Crown
+1868	material	Blinding Cathode
+1869	material	Tempered Cathode
+1870	material	Enticing Viperthorn
+1871	material	Tempered Viperthorn
+1872	material	Ancient Great Horn
+1873	material	Tempered Great Horn
+1874	material	Flickering Flamepelt
+1875	material	Tempered Flamepelt
+1876	material	Crackling Thunderpelt
+1877	material	Tempered Thunderpelt
+1878	material	Queen's Scale
+1879	material	Tempered Green Scale
+1880	material	Pink Scale
+1881	material	Tempered Pink Scale
+1882	material	Dazzling Photophore+
+1884	material	Rubbery Shell
+1885	material	Tempered Rubbery Shell
+1886	material	Obsidian Fur
+1887	material	Tempered Hide
+1888	material	Night Hood
+1890	material	Inkstained Oilshell+
+1891	material	Tempered Oilshell+
+1892	material	Heavy Jaw
+1894	material	Incandescent Magmafin
+1895	material	Tempered Magmafin
+1896	material	Metallic Scute
+1897	material	Tempered Scute
+1898	material	Coldblooded Icefang
+1899	material	Tempered Icefang
+1900	material	Sinister Silverpelt
+1901	material	Tempered Silverpelt
+1902	material	Smooth Icehide
+1903	material	Tempered Icehide
+1904	material	Crystal Frozenhide
+1905	material	Tempered Frosthide
+1906	material	Fatal Rendclaw
+1907	material	Tempered Rendclaw
+1908	material	Soulrender Talon
+1909	material	Tempered Talon
+1910	material	King's Scale
+1911	material	Tempered Red Scale
+1912	material	Azure Scale
+1913	material	Tempered Azure Scale
+1914	material	Twisted Bravehorn
+1915	material	Twisted Temperhorn
+1916	material	Blackcurl Tyranthorn
+1917	material	Blackcurl Temperhorn
+1918	material	Assassin Cutwing
+1919	material	Tempered Cutwing
+1920	material	Smoldering Tailedge
+1921	material	Tempered Tailedge
+1922	material	Honed Tailblade
+1923	material	Tempered Tailblade
+1924	material	Glossy Ebonshell
+1925	material	Tempered Ebonshell
+1926	material	Strongman's Jaw
+1927	material	Tempered Jaw
+1928	material	Shuddering Darkjaw
+1929	material	Tempered Ebonjaw
+1930	material	Charged Deathly Shocker
+1931	material	Tempered Shocker
+1932	material	Crimson Blastscale
+1933	material	Tempered Blastscale
+1934	material	Bloodstained Ebonhide
+1935	material	Spattered Hide
+1936	material	Solemn Azure Horn
+1937	material	Tempered Azure Horn
+1938	material	Hellfire Mane
+1939	material	Tempered Crimson Mane
+1940	material	Stormcall Steelwing
+1941	material	Tempered Steelwing
+1942	material	Azure Mane
+1943	material	Tempered Azure Mane
+1944	material	Aurora Crownhorn
+1945	material	Tempered Crownhorn
+1946	material	Twilight Fang
+1947	material	Tempered Twilight Fang
+1948	material	Enchanting Finehide
+1949	material	Tempered Trancehide
+1950	material	Extinction Greathorn
+1951	material	Annihilating Temperhorn
+1952	material	Moonlight Scale
+1953	material	Tempered Gold Scale
+1954	material	Scorching Scale
+1955	material	Tempered Silver Scale
+1956	material	Gushing Dragonhold
+1957	material	Tempered Dragonhold
+1958	material	Bloodthirsty Glimmerpelt
+1959	material	Tempered Glimmerpelt
+1965	material	Sublime First Wyverian Print
+1966	material	Steam Ticket
+1967	material	Giant Dragonvein Coal
+2675	material	Freezer Ticket
+2676	material	Pearlspring Ticket
+2679	material	Namielle Ticket
+2681	material	Velkhana Ticket
+2682	material	Frostfang Ticket
+2683	misc	Green Herb
+2684	misc	Red Herb
+2685	misc	Mixed Herb (G+R)
+2686	material	Steel Melding Ticket
+2687	material	Silver Melding Ticket
+2688	misc	Steel Melding Feystone
+2689	misc	Silver Melding Feystone
+2690	material	Gold Melding Ticket
+2691	material	Astral Melding Ticket
+2692	misc	Gold Melding Feystone
+2693	misc	Astral Melding Feystone
+2694	material	Dragonforce Chunk
+2696	material	Dracolite Shard
+2697	material	Dracolite
+2698	material	Large Dracolite
+2699	material	Rigid Dracolite
+2700	material	Pure Dracolite
+2701	material	Silversnow Pelt
+2702	material	Bergcrusher Claw
+2703	material	Silverwhite Frostfang
+2704	material	Black Eagle Blueprint
+2705	material	Wiggler Pot
+2706	material	S.T.A.R.S. Badge
+2710	material	Joyful Ticket
+2711	material	Penguin Ticket
+2712	material	Sealed Dragon Cloth
+2713	material	Buff Ticket
+2714	material	Pickaxe Ticket
+2715	material	Gratitude Ticket
+2716	material	Wyverian Ticket
+2717	material	Fest Ticket
+2718	material	Meaty Canteen Ticket
+2719	material	Azure Era Seal
+2720	material	Large Azure Era Gem
+2721	material	Full Bloom Ticket
+2722	material	Whetfish Ticket
+2723	material	Downy Crake Ticket II
+2724	material	Sizzling Spice Ticket
+2725	material	Shepherd Hare Ticket
+2726	material	Spirited Canteen Ticket
+2727	material	Fun Fright Ticket
+2728	material	Black Bandana
+2729	material	Scarf Ticket
+2730	material	Unity Symbol
+2732	material	Goldspring Ticket
+2733	misc	Large Beast Tear
+2734	material	Magnificent Pelt
+2735	material	VIP Joyful Ticket
+2736	material	VIP Gratitude Ticket
+2737	material	VIP Full Bloom Ticket
+2738	material	VIP Sizzling Spice Ticket
+2739	material	VIP Fun Fright Ticket
+2740	item	Banishing Ball
+2756	material	Fatalis Shard
+2757	material	Fatalis Cortex
+2758	material	Fatalis Pectus
+2759	material	Fatalis Hardhorn
+2760	material	Fatalis Evil Eye
+2761	material	Fatalis Fellwing
+2762	material	Herbivore Ticket I
+2763	material	Herbivore Ticket II
+2764	material	Inner Eye Ticket
+2765	material	Buff Ticket+
+2768	material	Chocolate
+2769	material	Artemis's Notebook
+2770	material	Zinogre Ticket
+2771	material	Brute Tigrex Ticket
